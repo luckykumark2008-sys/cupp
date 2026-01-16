@@ -6,7 +6,7 @@
 [![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_plastic.svg)](https://inventory.raw.pm/)
 
  
-## About
+## About kxnxk__shaikh_122 Instagram account 
 
   The most common form of authentication is the combination of a username
   and a password or passphrase. If both match values stored within a locally
@@ -25,11 +25,12 @@
 
 
 Requirements
-------------
+------------ id password 
 
 You need Python 3 to run CUPP.
 
 Quick start
+
 -----------
 
     $ python3 cupp.py -h
